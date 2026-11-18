@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\25.11.6326\\SistemReservasiRestoran\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF6090B-5B15-4F47-A518-4373BE833B4A}|..\\..\\SistemReservasiRestoran\\ReservasiRestoranApp\\ReservasiRestoranApp.csproj|d:\\sistemreservasirestoran\\reservasirestoranapp\\modulrestoranforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47557534-70A3-4904-B28E-09FF2E880EA8}|RestoranFormsApp\\RestoranFormsApp.csproj|d:\\25.11.6326\\sistemreservasirestoran\\restoranformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47557534-70A3-4904-B28E-09FF2E880EA8}|RestoranFormsApp\\RestoranFormsApp.csproj|solutionrelative:restoranformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47557534-70A3-4904-B28E-09FF2E880EA8}|RestoranFormsApp\\RestoranFormsApp.csproj|D:\\25.11.6326\\SistemReservasiRestoran\\restoranformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47557534-70A3-4904-B28E-09FF2E880EA8}|RestoranFormsApp\\RestoranFormsApp.csproj|solutionrelative:restoranformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF6090B-5B15-4F47-A518-4373BE833B4A}|..\\..\\SistemReservasiRestoran\\ReservasiRestoranApp\\ReservasiRestoranApp.csproj|d:\\sistemreservasirestoran\\reservasirestoranapp\\modulrestoranforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF6090B-5B15-4F47-A518-4373BE833B4A}|..\\..\\SistemReservasiRestoran\\ReservasiRestoranApp\\ReservasiRestoranApp.csproj|d:\\sistemreservasirestoran\\reservasirestoranapp\\modulbookingforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF6090B-5B15-4F47-A518-4373BE833B4A}|..\\..\\SistemReservasiRestoran\\ReservasiRestoranApp\\ReservasiRestoranApp.csproj|d:\\sistemreservasirestoran\\reservasirestoranapp\\modulpembatalanforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32DE51CE-7B7A-41FE-BB29-1AE12453FD7C}|ReservasiLibrary\\ReservasiLibrary.csproj|d:\\25.11.6326\\sistemreservasirestoran\\reservasilibrary\\modelsandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32DE51CE-7B7A-41FE-BB29-1AE12453FD7C}|ReservasiLibrary\\ReservasiLibrary.csproj|solutionrelative:reservasilibrary\\modelsandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF6090B-5B15-4F47-A518-4373BE833B4A}|..\\..\\SistemReservasiRestoran\\ReservasiRestoranApp\\ReservasiRestoranApp.csproj|d:\\sistemreservasirestoran\\reservasirestoranapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47557534-70A3-4904-B28E-09FF2E880EA8}|RestoranFormsApp\\RestoranFormsApp.csproj|d:\\25.11.6326\\sistemreservasirestoran\\restoranformsapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47557534-70A3-4904-B28E-09FF2E880EA8}|RestoranFormsApp\\RestoranFormsApp.csproj|solutionrelative:restoranformsapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ModulRestoranForms.cs [Design]",
+              "DocumentMoniker": "D:\\SistemReservasiRestoran\\ReservasiRestoranApp\\ModulRestoranForms.cs",
+              "RelativeDocumentMoniker": "..\\..\\SistemReservasiRestoran\\ReservasiRestoranApp\\ModulRestoranForms.cs",
+              "ToolTip": "D:\\SistemReservasiRestoran\\ReservasiRestoranApp\\ModulRestoranForms.cs [Design]",
+              "RelativeToolTip": "..\\..\\SistemReservasiRestoran\\ReservasiRestoranApp\\ModulRestoranForms.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T13:34:33.057Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\25.11.6326\\SistemReservasiRestoran\\RestoranFormsApp\\Form1.cs",
+              "RelativeDocumentMoniker": "RestoranFormsApp\\Form1.cs",
+              "ToolTip": "D:\\25.11.6326\\SistemReservasiRestoran\\RestoranFormsApp\\Form1.cs [Design]",
+              "RelativeToolTip": "RestoranFormsApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T12:43:57.094Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ModulPembatalanForms.cs",
+              "DocumentMoniker": "D:\\SistemReservasiRestoran\\ReservasiRestoranApp\\ModulPembatalanForms.cs",
+              "RelativeDocumentMoniker": "..\\..\\SistemReservasiRestoran\\ReservasiRestoranApp\\ModulPembatalanForms.cs",
+              "ToolTip": "D:\\SistemReservasiRestoran\\ReservasiRestoranApp\\ModulPembatalanForms.cs",
+              "RelativeToolTip": "..\\..\\SistemReservasiRestoran\\ReservasiRestoranApp\\ModulPembatalanForms.cs",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAYwN8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T12:43:30.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ModulBookingForms.cs",
+              "DocumentMoniker": "D:\\SistemReservasiRestoran\\ReservasiRestoranApp\\ModulBookingForms.cs",
+              "RelativeDocumentMoniker": "..\\..\\SistemReservasiRestoran\\ReservasiRestoranApp\\ModulBookingForms.cs",
+              "ToolTip": "D:\\SistemReservasiRestoran\\ReservasiRestoranApp\\ModulBookingForms.cs",
+              "RelativeToolTip": "..\\..\\SistemReservasiRestoran\\ReservasiRestoranApp\\ModulBookingForms.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T12:42:53.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ModulRestoranForms.cs",
+              "DocumentMoniker": "D:\\SistemReservasiRestoran\\ReservasiRestoranApp\\ModulRestoranForms.cs",
+              "RelativeDocumentMoniker": "..\\..\\SistemReservasiRestoran\\ReservasiRestoranApp\\ModulRestoranForms.cs",
+              "ToolTip": "D:\\SistemReservasiRestoran\\ReservasiRestoranApp\\ModulRestoranForms.cs",
+              "RelativeToolTip": "..\\..\\SistemReservasiRestoran\\ReservasiRestoranApp\\ModulRestoranForms.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAAANMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T12:41:57.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\25.11.6326\\SistemReservasiRestoran\\RestoranFormsApp\\Form1.cs",
+              "RelativeDocumentMoniker": "RestoranFormsApp\\Form1.cs",
+              "ToolTip": "D:\\25.11.6326\\SistemReservasiRestoran\\RestoranFormsApp\\Form1.cs",
+              "RelativeToolTip": "RestoranFormsApp\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T04:39:56.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ModelsAndRepository.cs",
+              "DocumentMoniker": "D:\\25.11.6326\\SistemReservasiRestoran\\ReservasiLibrary\\ModelsAndRepository.cs",
+              "RelativeDocumentMoniker": "ReservasiLibrary\\ModelsAndRepository.cs",
+              "ToolTip": "D:\\25.11.6326\\SistemReservasiRestoran\\ReservasiLibrary\\ModelsAndRepository.cs",
+              "RelativeToolTip": "ReservasiLibrary\\ModelsAndRepository.cs",
+              "ViewState": "AgIAAM0AAAAAAAAAAADwv+YAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T12:39:20.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\SistemReservasiRestoran\\ReservasiRestoranApp\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\..\\SistemReservasiRestoran\\ReservasiRestoranApp\\Form1.cs",
+              "ToolTip": "D:\\SistemReservasiRestoran\\ReservasiRestoranApp\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\SistemReservasiRestoran\\ReservasiRestoranApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T12:37:23.455Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\25.11.6326\\SistemReservasiRestoran\\RestoranFormsApp\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "RestoranFormsApp\\Form1.Designer.cs",
+              "ToolTip": "D:\\25.11.6326\\SistemReservasiRestoran\\RestoranFormsApp\\Form1.Designer.cs",
+              "RelativeToolTip": "RestoranFormsApp\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T04:39:59.016Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+D:\25.11.6326\SistemReservasiRestoran\RestoranFormsApp\bin\Debug\RestoranFormsApp.exe.config
+D:\25.11.6326\SistemReservasiRestoran\RestoranFormsApp\bin\Debug\RestoranFormsApp.exe
+D:\25.11.6326\SistemReservasiRestoran\RestoranFormsApp\bin\Debug\RestoranFormsApp.pdb
+D:\25.11.6326\SistemReservasiRestoran\RestoranFormsApp\obj\Debug\RestoranFormsApp.csproj.AssemblyReference.cache
+D:\25.11.6326\SistemReservasiRestoran\RestoranFormsApp\obj\Debug\RestoranFormsApp.Form1.resources
+D:\25.11.6326\SistemReservasiRestoran\RestoranFormsApp\obj\Debug\RestoranFormsApp.Properties.Resources.resources
+D:\25.11.6326\SistemReservasiRestoran\RestoranFormsApp\obj\Debug\RestoranFormsApp.csproj.GenerateResource.cache
+D:\25.11.6326\SistemReservasiRestoran\RestoranFormsApp\obj\Debug\RestoranFormsApp.csproj.CoreCompileInputs.cache
+D:\25.11.6326\SistemReservasiRestoran\RestoranFormsApp\obj\Debug\RestoranFormsApp.exe
+D:\25.11.6326\SistemReservasiRestoran\RestoranFormsApp\obj\Debug\RestoranFormsApp.pdb

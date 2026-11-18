@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../../SistemReservasiRestoran/ReservasiRestoranApp/ReservasiRestoranApp.csproj" Id="7af6090b-5b15-4f47-a518-4373be833b4a" />
+  <Project Path="ReservasiLibrary/ReservasiLibrary.csproj" Id="32de51ce-7b7a-41fe-bb29-1ae12453fd7c" />
+  <Project Path="RestoranFormsApp/RestoranFormsApp.csproj" Id="47557534-70a3-4904-b28e-09ff2e880ea8" />
+</Solution>
